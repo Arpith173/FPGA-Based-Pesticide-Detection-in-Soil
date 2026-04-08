@@ -10,17 +10,6 @@ A state-of-the-art implementation for rapid, on-site pesticide detection in soil
 
 ---
 
-## 📺 Demo & Visuals
-
-| Stage Classification Results | Hardware Waveform Simulation |
-| :---: | :---: |
-| ![Results](./Docs/Images/three_stage_detection_results.png) | ![Waveform](./Docs/Images/Simulation%20-%20Waveform%20in%20Vivado.png) |
-
-| FPGA Board Testing | Board Results (7-Segment) |
-| :---: | :---: |
-| ![Board 1](./Docs/Images/Testing%20Combination%20on%20FPGA%20Board%20-Part%201.png) | ![Board 2](./Docs/Images/Testing%20Combination%20on%20FPGA%20Board%20-Part%202.png) |
-
----
 
 ## 🚀 Key Features
 
